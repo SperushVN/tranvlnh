@@ -3,9 +3,9 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 $khoa = 'tranvlnh';
 
 $servername = "localhost";
-$username = "id15425858_tranvlnh07";
-$password = "YhNe[2)tbWG{^Ew[";
-$dbname = "id15425858_tranvlnh";
+$username = "id20938444_sperushvn";
+$password = "Anhvip2006@";
+$dbname = "id20938444_sperush";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
